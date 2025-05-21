@@ -53,7 +53,7 @@ ruby ./simin-wifi.rb
 
 ## Developer & Credits
 
-🛠️ Developed by: Mohammad Babaee 🌍 Follow & Contribute: [https://github.com/mohammad-babaee]
+🛠️ Developed by: Mohammad Babaee [ in Russian Разработчик : Мохаммад Бабаи ] 🌍 Follow & Contribute: [https://github.com/mohammad-babaee]
 
 If you found Simin WiFi useful, consider giving it a star on GitHub ⭐!
 
