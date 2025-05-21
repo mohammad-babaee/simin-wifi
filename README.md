@@ -32,7 +32,7 @@ Run this in your terminal:
 chmod +x setup.sh
 ./setup.sh
 
----
+```
 
 ## Developer & Credits
 
