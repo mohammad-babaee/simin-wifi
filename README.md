@@ -34,6 +34,14 @@ chmod +x setup.sh
 
 ```
 
+Or Run This , As a Ruby Fan :
+
+```sh
+ruby ./setup.rb
+
+```
+
+
 ## Developer & Credits
 
 🛠️ Developed by: Mohammad Babaee 🌍 Follow & Contribute: [https://github.com/mohammad-babaee]
