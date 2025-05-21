@@ -40,7 +40,11 @@ Or Run This , As a Ruby Fan :
 ruby ./setup.rb
 
 ```
+After that , Make sure You installed Ruby on your machine , So if yes ... You are ready to go , just run this command :
 
+```sh
+ruby ./simin-wifi.rb
+```
 
 ## Developer & Credits
 
@@ -62,4 +66,5 @@ This project is licensed under the MIT License – a flexible open-source licens
 By using this tool, you agree to use it responsibly and only on networks you own or have explicit permission to audit. The developer is not responsible for any misuse of the software.
 
 Stay ethical, stay legal, and use Simin WiFi responsibly! 🔒🚀
-```
+
+
