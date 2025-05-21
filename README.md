@@ -46,6 +46,11 @@ After that , Make sure You installed Ruby on your machine , So if yes ... You ar
 ruby ./simin-wifi.rb
 ```
 
+## Screenshot
+
+![simin-wifi](https://github.com/user-attachments/assets/8ffeb394-c018-4824-a839-ae442e9c646a)
+
+
 ## Developer & Credits
 
 🛠️ Developed by: Mohammad Babaee 🌍 Follow & Contribute: [https://github.com/mohammad-babaee]
